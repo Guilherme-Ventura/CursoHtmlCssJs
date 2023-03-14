@@ -118,7 +118,7 @@
     background-color: #fff;
 }
 /*Responsive*/
-@media(max-width: 390px){
+@media(max-width: 450px){
     #main-container{
         height: 100%;
         flex-wrap: wrap;
@@ -128,7 +128,7 @@
         flex: 1 1 100%;
     }
 
-    #form-contaienr{
+    #form-container{
         order: -1;
         padding: 20px;
     }
@@ -145,7 +145,7 @@
         border-color: #aaa;
     }
 
-    #adress-container{
+    #address-container{
         background-position: 0;
         height: 500px;
     }
