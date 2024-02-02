@@ -3,7 +3,7 @@ function gerarTabuada(){
     let tabuada = document.getElementById('selectTab')
     
     if(num.value.length == 0){
-        alert('zerado')
+        alert('zerado!')
     } else{
         let n = Number(num.value)
         tabuada.innerHTML = ''
